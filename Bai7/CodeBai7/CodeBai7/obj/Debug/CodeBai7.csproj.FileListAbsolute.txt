@@ -1,0 +1,12 @@
+C:\Users\LOQ\Downloads\Ngay13-10-2026\Bai7\CodeBai7\CodeBai7\bin\Debug\CodeBai7.exe.config
+C:\Users\LOQ\Downloads\Ngay13-10-2026\Bai7\CodeBai7\CodeBai7\bin\Debug\CodeBai7.exe
+C:\Users\LOQ\Downloads\Ngay13-10-2026\Bai7\CodeBai7\CodeBai7\bin\Debug\CodeBai7.pdb
+C:\Users\LOQ\Downloads\Ngay13-10-2026\Bai7\CodeBai7\CodeBai7\obj\Debug\CodeBai7.csproj.AssemblyReference.cache
+C:\Users\LOQ\Downloads\Ngay13-10-2026\Bai7\CodeBai7\CodeBai7\obj\Debug\CodeBai7.FormMain.resources
+C:\Users\LOQ\Downloads\Ngay13-10-2026\Bai7\CodeBai7\CodeBai7\obj\Debug\CodeBai7.FormProduct.resources
+C:\Users\LOQ\Downloads\Ngay13-10-2026\Bai7\CodeBai7\CodeBai7\obj\Debug\CodeBai7.FormStudent.resources
+C:\Users\LOQ\Downloads\Ngay13-10-2026\Bai7\CodeBai7\CodeBai7\obj\Debug\CodeBai7.Properties.Resources.resources
+C:\Users\LOQ\Downloads\Ngay13-10-2026\Bai7\CodeBai7\CodeBai7\obj\Debug\CodeBai7.csproj.GenerateResource.cache
+C:\Users\LOQ\Downloads\Ngay13-10-2026\Bai7\CodeBai7\CodeBai7\obj\Debug\CodeBai7.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Downloads\Ngay13-10-2026\Bai7\CodeBai7\CodeBai7\obj\Debug\CodeBai7.exe
+C:\Users\LOQ\Downloads\Ngay13-10-2026\Bai7\CodeBai7\CodeBai7\obj\Debug\CodeBai7.pdb

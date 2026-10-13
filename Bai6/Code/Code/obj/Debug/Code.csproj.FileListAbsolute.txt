@@ -1,0 +1,10 @@
+C:\Users\LOQ\Downloads\Ngay13-10-2026\Bai6\Code\Code\bin\Debug\Code.exe.config
+C:\Users\LOQ\Downloads\Ngay13-10-2026\Bai6\Code\Code\bin\Debug\Code.exe
+C:\Users\LOQ\Downloads\Ngay13-10-2026\Bai6\Code\Code\bin\Debug\Code.pdb
+C:\Users\LOQ\Downloads\Ngay13-10-2026\Bai6\Code\Code\obj\Debug\Code.csproj.AssemblyReference.cache
+C:\Users\LOQ\Downloads\Ngay13-10-2026\Bai6\Code\Code\obj\Debug\Code.FormAvatarCsv.resources
+C:\Users\LOQ\Downloads\Ngay13-10-2026\Bai6\Code\Code\obj\Debug\Code.Properties.Resources.resources
+C:\Users\LOQ\Downloads\Ngay13-10-2026\Bai6\Code\Code\obj\Debug\Code.csproj.GenerateResource.cache
+C:\Users\LOQ\Downloads\Ngay13-10-2026\Bai6\Code\Code\obj\Debug\Code.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Downloads\Ngay13-10-2026\Bai6\Code\Code\obj\Debug\Code.exe
+C:\Users\LOQ\Downloads\Ngay13-10-2026\Bai6\Code\Code\obj\Debug\Code.pdb
